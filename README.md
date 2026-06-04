@@ -1,15 +1,15 @@
 # Hi 👋! My name is Mayara
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luzuramay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luzuramay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luzuramay&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luzuramay&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="languages graph" />
 </p>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<img align="right" src="https://media1.tenor.com/m/bmcU6fpKS4YAAAAd/gon-gon-confused.gif" width="150" alt="confused gon" />
+<img align="right" src="https://media.tenor.com/5FKcQ0VY5qsAAAAd/tiramisu-cake-tiramisu-cake-dance.gif" width="130" alt="tiramisu cake gon dance" />
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
