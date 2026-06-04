@@ -9,8 +9,8 @@
 
 ###
 
-<!-- Fixed the broken image URL string here -->
-<img align="right" height="150" src="https://media1.tenor.com/m/CHVhdENCBdMAAAAC/mitsuki-koga-koga-mitsuki.gif" alt="anime gif" />
+<!-- Swapped to your preferred Gon confused GIF -->
+<img align="right" height="150" src="https://media1.tenor.com/m/bmcU6fpKS4YAAAAd/gon-gon-confused.gif" alt="confused gon gif" />
 
 ###
 
