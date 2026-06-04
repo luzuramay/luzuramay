@@ -1,8 +1,8 @@
 # Hi 👋! My name is Mayara
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luzuramay&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luzuramay&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.shion.dev/api?username=luzuramay&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=luzuramay&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="languages graph" />
 </p>
 
 ---
